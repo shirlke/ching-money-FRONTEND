@@ -1,13 +1,13 @@
 export const questions = [
     {
-      section: "Employment Status",
-      question: "What is your current employment status?",
+      section: "Bills, Debt & Income",
+      question: "When I think of my money situation:",
       choices: [
-        "Full-time employed",
-        "Part-time employed",
-        "Self-employed",
-        "Unemployed",
-        "Retired",
+        "I get excited and I have peace of mind",
+        "I feel a sense of accomplishment, confident & in control",
+        "I get unsettled, pressured by bills",
+        "I feel overwhelmed, confused, insecure, frustrated",
+        "I feel fearful, angry, I want to disappear ",
       ],
     },
 //==============END OF SECTION================//
